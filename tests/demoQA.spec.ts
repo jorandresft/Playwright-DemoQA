@@ -1,6 +1,5 @@
 import { BasePage } from "../pages/BasePage";
 import { FillFormPage } from "../pages/FillFormPage";
-import { UserData } from "../pages/locators/data/UserData";
 import { test, expect } from "@playwright/test";
 
 test.describe('Test suite', async () => {

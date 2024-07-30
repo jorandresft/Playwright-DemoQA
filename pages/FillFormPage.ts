@@ -1,6 +1,6 @@
 import { BasePage } from "./BasePage";
 import { DemoQaLocators } from "./locators/DemoQaLocators";
-import { UserData } from "./locators/data/UserData";
+import { UserData } from "./data/UserData";
 
 export class FillFormPage extends BasePage {
 
